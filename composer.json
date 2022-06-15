@@ -1,4 +1,7 @@
 {
-  "name": "lewebsimple/gravity-forms-polylang",
-  "type": "wordpress-plugin"
+    "name": "mattradford/gravity-forms-polylang",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
 }
