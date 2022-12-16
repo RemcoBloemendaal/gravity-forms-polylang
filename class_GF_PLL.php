@@ -27,7 +27,8 @@ class GF_PLL {
       'customLabel',
       'value',
       'subject',
-      'checkboxLabel'
+      'checkboxLabel',
+      'pageId'
     );
 
     $this->blacklist = array();
