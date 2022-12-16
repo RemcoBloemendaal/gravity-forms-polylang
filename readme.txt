@@ -18,6 +18,8 @@ Add form titles, descriptions, field labels, etc, to Polylang string translation
 No installation required.
 
 == Changelog ==
+= 0.4.2 =
+* Added translation of confirmation pageId
 
 = 0.4 =
 * Fixed bug that would make input fields from Gravity Forms Add Ons disappear
